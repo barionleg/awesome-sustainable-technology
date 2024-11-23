@@ -7,77 +7,45 @@
 </p>
 <h5 align="center"> Artwork by Eleanor Lutz </h5>
 
+<h5 align="center"> Artwork by Eleanor Lutz </h5>
+
 - [Renewable Energy Sources](#renewable-energy-sources)
-- 
   * [Photovoltaic](#photovoltaic)
-  * 
   * [Wind Turbines](#wind-turbines)
-  * 
   * [Hydro Energy](#hydro-energy)
-  * 
   * [Geothermal Energy](#geothermal-energy)
-  * 
   * [Bioenergy](#bioenergy)
-  * 
 - [Energy Storage](#energy-storage)
-- 
   * [Battery](#battery)
-  * 
   * [Hydrogen](#hydrogen)
-  * 
 - [Energy Distribution and Grids](#energy-distribution-and-grids)
-- 
 - [Energy Consumption](#energy-consumption)
-- 
   * [Buildings and Cities](#buildings-and-cities)
-  * 
   * [Mobility and Transportation](#mobility-and-transportation)
-  * 
   * [Industry](#industry)
-  * 
 - [Energy System Assessment](#energy-system-assessment)
-- 
   * [Modeling](#modeling)
-  * 
   * [Analysis](#analysis)
-  * 
   * [Optimization](#optimization)
-  * 
   * [Monitoring and Control](#monitoring-and-control)
-  * 
 - [Datasets on Electricity Consumption and Generation](#datasets-on-electricity-consumption-and-generation)
-- 
 - [Emissions and Greenhouse Gases](#emissions-and-greenhouse-gases)
-- 
   * [Carbon Footprint](#carbon-footprint)
-  * 
   * [Observation](#observation)
-  * 
   * [Carbon Capture](#carbon-capture)
-  * 
 - [Observation and Conservation of Ecosystems](#observation-and-conservation-of-ecosystems)
-- 
   * [Vegitation and Biodiversity](#vegitation-and-biodiversity)
-  * 
   * [Ice and Poles](#ice-and-poles)
-  * 
   * [Ocean and Climate](#ocean-and-climate)
-  * 
 - [Access and Monitoring of Resources](#access-and-monitoring-of-resources)
-- 
   * [Air](#air)
-  * 
   * [Water](#water)
-  * 
   * [Soil](#soil)
-  * 
 - [Circular Economy and Waste](#circular-economy-and-waste)
-- 
 - [Further Sustainability](#further-sustainability)
-- 
   * [Public Resources](#public-resources)
-  * 
   * [Open Sustainable Communities](#open-sustainable-communities)
+
 
 
 ## Guideline
